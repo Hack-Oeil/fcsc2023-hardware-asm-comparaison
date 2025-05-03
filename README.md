@@ -21,12 +21,12 @@ Origine : [Comparaison](https://hackropole.fr/fr/challenges/hardware/fcsc2023-ha
 > http://localhost
 
 #### tentez 
-> nc comparaison.cyrhades.fr:4000
+> nc comparaison.cyrhades.fr 4000
 
 -----------
 
 ## Ou directement avec netcat
-> nc localhost:4000
+> nc localhost 4000
 
 
 -----------
