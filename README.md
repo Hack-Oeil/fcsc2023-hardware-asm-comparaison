@@ -6,7 +6,7 @@ La machine est initialisée avec deux valeurs aléatoires dans les registres R5 
 
 Le code machine (bytecode) sera envoyé sous un format hexadécimal, qu’on pourra générer à l’aide de l’assembleur fourni (fichier assembly.py).
 
-La documentation de la machine virtuelle est disponible sur cette page.
+La documentation de la machine virtuelle est disponible sur [cette page](https://hackropole.fr/fr/doc/vm2023/).
 
 
 
